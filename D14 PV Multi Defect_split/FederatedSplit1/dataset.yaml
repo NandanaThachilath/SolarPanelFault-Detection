@@ -1,0 +1,12 @@
+path: C:\Users\Admin\Documents\D14 PV Multi Defect_split\FederatedSplit1
+train: C:\Users\Admin\Documents\D14 PV Multi Defect_split\FederatedSplit1\yolo_client1/images
+val: C:\Users\Admin\Documents\D14 PV Multi Defect_split\FederatedSplit1\yolo_client2/images
+names:
+- hot_spot
+- scratch
+- black_border
+- no_electricity
+- broken
+nc: 5
+client1_images: 5731
+client2_images: 5795
