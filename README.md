@@ -92,14 +92,7 @@ This approach supports decentralized training and can improve robustness when cl
 - Large-scale solar installation monitoring
 - Privacy-aware collaborative training across distributed inspection sites
 
-## Future Improvements
 
-- Evaluate the model on larger and more diverse solar panel datasets.
-- Compare the enhanced model against the baseline YOLO11 architecture.
-- Report precision, recall, F1-score, mAP@0.5, and mAP@0.5:0.95.
-- Evaluate federated performance under non-IID client data distributions.
-- Scale the federated system to more clients and communication rounds.
-- Explore real-time deployment using edge devices.
 
 ## Author
 
